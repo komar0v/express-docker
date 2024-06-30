@@ -1,0 +1,6 @@
+version: '3'
+services:
+  app:
+    image: express-app-coba
+    ports:
+      - 8778:4441
